@@ -1,17 +1,2 @@
 #/bin/bash
-echo 'espeak -s 120 -p 10 "start to work"' | at 5:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 5:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 6:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 6:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 7:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 7:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 8:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 8:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 9:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 9:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 10:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 10:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 11:00
-echo 'espeak -s 120 -p 10 "time to have a break"' | at 11:45
-echo 'espeak -s 120 -p 10 "back to work"' | at 12:00
-echo 'espeak -s 120 -p 10 "enjoy the rest of your day"' | at 12:45
+echo './now' | at 5:00
