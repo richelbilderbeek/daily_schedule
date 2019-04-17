@@ -1,18 +1,18 @@
 #/bin/bash
 
-echo 'zenity --text="start to work" --info' | at now
-echo 'zenity --text="time to have a break" --info' | at now + 45 min
-echo 'zenity --text="back to work"" --info' | at now + 60 min
-echo 'zenity --text="time to have a break"" --info' | at now + 105 min
-echo 'zenity --text="back to work"" --info' | at now + 120 min
-echo 'zenity --text="time to have a break"" --info' | at now + 165 min
-echo 'zenity --text="back to work"" --info' | at now + 180 min
-echo 'zenity --text="time to have a break"" --info' | at now + 225 min
-echo 'zenity --text="back to work"" --info' | at now + 240 min
-echo 'zenity --text="time to have a break"" --info' | at now + 285 min
-echo 'zenity --text="back to work"" --info' | at now + 300 min
-echo 'zenity --text="time to have a break"" --info' | at now + 345 min
-echo 'zenity --text="back to work"" --info' | at now + 360 min
-echo 'zenity --text="time to have a break"" --info' | at now + 405 min
-echo 'zenity --text="back to work"" --info' | at now + 420 min
-echo 'zenity --text="enjoy the rest of your day"" --info' | at now + 465 min
+echo 'vlc ~/Videos/is_clock.avi' | at now
+echo 'vlc ~/Videos/is_clock.avi' | at now + 45 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 60 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 105 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 120 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 165 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 180 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 225 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 240 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 285 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 300 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 345 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 360 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 405 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 420 min
+echo 'vlc ~/Videos/is_clock.avi' | at now + 465 min
