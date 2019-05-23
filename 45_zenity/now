@@ -1,18 +1,19 @@
 #/bin/bash
 
-echo 'vlc ~/Videos/is_clock.avi' | at now
-echo 'vlc ~/Videos/is_clock.avi' | at now + 45 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 60 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 105 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 120 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 165 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 180 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 225 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 240 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 285 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 300 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 345 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 360 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 405 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 420 min
-echo 'vlc ~/Videos/is_clock.avi' | at now + 465 min
+
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 45 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 60 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 105 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 120 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 165 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 180 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 225 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 240 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 285 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 300 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 345 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 360 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 405 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 420 min
+echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 465 min
