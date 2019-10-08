@@ -1,4 +1,5 @@
 #/bin/bash
+echo 'espeak -s 120 -p 10 "done"' | at now
 echo 'espeak -s 120 -p 10 "start computers"' | at 17:50
 echo 'espeak -s 120 -p 10 "kids are welcome"' | at 18:00
 echo 'espeak -s 120 -p 10 "start to work"' | at 18:15
