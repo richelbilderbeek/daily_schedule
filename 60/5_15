@@ -1,0 +1,3 @@
+#/bin/bash
+echo './now' | at 5:15
+
