@@ -18,13 +18,13 @@ espeak "Single leg bridge"; sleep 30
 espeak "Leg bridge"; sleep 30
 espeak "Break"; sleep 40
 
-espeak "Round 4 of 7. Lie on back"; sleep 5
+espeak "Round 4 of 7. Stand straight"; sleep 5
 
 espeak "Front knee raise"; sleep 30
 espeak "Heel raise"; sleep 30
 espeak "Break"; sleep 40
 
-espeak "Round 5 of 7. Stand straight"; sleep 5
+espeak "Round 5 of 7. On all fours"; sleep 5
 
 espeak "Kneeling arm and leg"; sleep 30
 espeak "Lying arm raise"; sleep 30
