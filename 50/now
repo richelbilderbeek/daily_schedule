@@ -1,0 +1,17 @@
+#/bin/bash
+echo 'espeak -s 120 -p 10 "start to work"' | at now
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 50 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 60 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 110 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 120 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 170 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 180 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 230 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 240 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 290 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 300 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 350 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 360 min
+echo 'espeak -s 120 -p 10 "time to have a break"' | at now + 410 min
+echo 'espeak -s 120 -p 10 "back to work"' | at now + 420 min
+echo 'espeak -s 120 -p 10 "enjoy the rest of your day"' | at now + 470 min
