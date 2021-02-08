@@ -1,4 +1,7 @@
 #/bin/bash
+#
+# Add -ven-us+f5 for a female voice (f1-6 will work) 
+#
 echo 'espeak -s 120 -p 10 "start to work"' | at now
 echo 'espeak -s 120 -p 10 "1"' | at now + 15 min
 echo 'espeak -s 120 -p 10 "2"' | at now + 30 min
