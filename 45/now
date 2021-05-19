@@ -3,31 +3,31 @@ echo 'espeak -v swedish-mbrola-1 -v swedish-mbrola-1 -s 120 -p 10 "börja jobba"
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 15 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 30 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 45 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 60 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 60 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 75 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 90 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 105 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 120 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 120 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 135 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 150 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 165 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 180 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 180 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 195 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 210 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 225 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 240 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 240 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 255 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 270 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 285 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 300 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 300 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 315 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 330 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 345 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 360 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 360 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 375 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 390 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 405 min
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaka till arbetet"' | at now + 420 min
+echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tillbaks till arbetet"' | at now + 420 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "1"' | at now + 435 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"' | at now + 450 min
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "njut av resten av din dag"' | at now + 465 min
