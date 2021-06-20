@@ -1,8 +1,8 @@
 # daily_schedule
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 ---|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/daily_schedule.svg?branch=master)](https://travis-ci.org/richelbilderbeek/daily_schedule)
+`master`|[![Build Status](https://travis-ci.com/richelbilderbeek/daily_schedule.svg?branch=master)](https://travis-ci.com/richelbilderbeek/daily_schedule)
 
 Scripts for my daily schedules.
 
