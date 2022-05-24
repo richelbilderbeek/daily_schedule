@@ -1,19 +1,33 @@
 #/bin/bash
-
-
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Start to work")" --urgency=critical' | at now
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 45 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 60 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 105 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 120 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 165 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 180 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 225 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 240 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 285 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 300 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 345 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 360 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Time to have a break")" --urgency=critical' | at now + 405 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Back to work")" --urgency=critical' | at now + 420 min
-echo 'notify-send "$(cowsay -f ~/GitHubs/k3_cow/klaasje.cow "Enjoy the rest of your day")" --urgency=critical' | at now + 465 min
+echo 'notify-send "Start to work" --urgency=critical' | at now
+echo 'notify-send "1"' | at now + 15 min
+echo 'notify-send "2"' | at now + 30 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 45 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 60 min
+echo 'notify-send "1"' | at now + 75 min
+echo 'notify-send "2"' | at now + 90 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 105 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 120 min
+echo 'notify-send "1"' | at now + 135 min
+echo 'notify-send "2"' | at now + 150 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 165 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 180 min
+echo 'notify-send "1"' | at now + 195 min
+echo 'notify-send "2"' | at now + 210 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 225 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 240 min
+echo 'notify-send "1"' | at now + 255 min
+echo 'notify-send "2"' | at now + 270 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 285 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 300 min
+echo 'notify-send "1"' | at now + 315 min
+echo 'notify-send "2"' | at now + 330 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 345 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 360 min
+echo 'notify-send "1"' | at now + 375 min
+echo 'notify-send "2"' | at now + 390 min
+echo 'notify-send "Time to have a break" --urgency=critical' | at now + 405 min
+echo 'notify-send "Back to work" --urgency=critical' | at now + 420 min
+echo 'notify-send "1"' | at now + 435 min
+echo 'notify-send "2"' | at now + 450 min
+echo 'notify-send "Enjoy the rest of your day" --urgency=critical' | at now + 465 min
