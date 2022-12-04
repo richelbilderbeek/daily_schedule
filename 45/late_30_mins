@@ -1,4 +1,4 @@
 #/bin/bash
-echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "2"'
+espeak -v swedish-mbrola-1 -s 120 -p 10 "2"
 echo 'espeak -v swedish-mbrola-1 -s 120 -p 10 "tid att ta en paus"' | at now + 15 min
-echo './now' | at now + 45 min
+echo './now' | at now + 30 min
